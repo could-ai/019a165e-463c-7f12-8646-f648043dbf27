@@ -12,7 +12,7 @@ class _AddTransactionPageState extends State<AddTransactionPage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Add Transaction'),
+        title: const Text('BLUE BIRD - Add Transaction'),
       ),
       body: const Center(
         child: Text('Add a new transaction'),

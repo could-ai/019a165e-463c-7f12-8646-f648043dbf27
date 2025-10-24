@@ -12,7 +12,7 @@ class _HomePageState extends State<HomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Wallet Home'),
+        title: const Text('BLUE BIRD Home'),
       ),
       body: const Center(
         child: Text('Welcome to your wallet!'),

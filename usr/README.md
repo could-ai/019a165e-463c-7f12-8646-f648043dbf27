@@ -1,6 +1,6 @@
-# couldai_user_app
+# BLUE BIRD Wallet App
 
-A new Flutter project.
+A Flutter-based wallet application for managing money.
 
 ## Getting Started
 
